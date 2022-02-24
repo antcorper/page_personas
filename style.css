@@ -1,6 +1,6 @@
 body {
     margin: 0; /*bordes del body por defecto eliminados*/
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Shizuru', cursive;
 }
 .container{
     width: 1024px;
